@@ -7,6 +7,8 @@ environment:
 dependencies:
   dart_twistmoe:
     path: ../
+  dart_discord:
+    git: git@github.com:williambulin/dart_discord
 
 dev_dependencies:
   pedantic: ^1.9.0

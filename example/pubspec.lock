@@ -50,6 +50,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.0"
+  dart_discord:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "92309f932556af7fcdf074bb9ff7b9b50cab33bf"
+      url: "git@github.com:williambulin/dart_discord"
+    source: git
+    version: "0.0.0"
   dart_twistmoe:
     dependency: "direct main"
     description:
